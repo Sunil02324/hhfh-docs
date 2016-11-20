@@ -1,9 +1,9 @@
-                               WELCOME  TO HiT Hi FiT Hai
+                               WELCOME  TO Kattappa's Hub
                                     (\',__..__,'/)
                                 _.-'-.( d--/b ).-'-._
                               /' .-'    ' .----.'  '-.   '
                              /'  .'(=    (_)    =) '.   '
-                          '/'  .',   -.__.-.__.-'  ,'.   '\'        HiT Hi FiT Hai
+                          '/'  .',   -.__.-.__.-'  ,'.   '\'        Kattappa
                           (        '.'  V     V  ;'' .       )
                          (      ::  ''-.__.-.__,-'  ::       )      Sharing for Friends
                         (       /   :.              .:         )
@@ -19,7 +19,7 @@
                       (_(_(__(_-'"'          '"'-_)__)_)_)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-### Welcome to .:: HiT Hi FiT Hai ::.	   =- Share as much as you can -=
+### Welcome to .:: Kattappa's Hub ::.	   =- Share as much as you can -=
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 	Hub Address       -
@@ -36,7 +36,7 @@ Check your right click for commands. Consult other users on forums about any pro
 Disclaimer
 ==========
 
-**HiT Hi FiT Hai** hub intends to provide service to users willing to share "legal", "non objectionable"
+**Kattappa's Hub** intends to provide service to users willing to share "legal", "non objectionable"
 content. However the hub is only a "connectivity layer" between the clients and has no control over
 items shared. The user, and the user alone is responsible for what they have shared. By entering into
 the hub you agree to this disclaimer and would abide by the rules of the hub. The hub scripts are
@@ -77,13 +77,6 @@ publicly browsable. Notices without a deadline will be removed within 15 days, u
 Notices will be added at the sole discretion of the Hub. Failing to comply with any of the above can cause
 your request to be overlooked/rejected.
 
-If your notice can not be shortened or you want a more descriptive notice, please post it on the
-forums`[3]` and we'll provide link to such notices.
-
-	[1]: http://en.wikipedia.org/wiki/Markdown
-	[2]: http://groups.google.com/group/hhfh/topics
-	[3]: http://..../mutter/viewforum.php?f=21
-
 ### NOTE
 
 * Please don't request for giving a priority to your notice unless it is REALLY important.
@@ -92,13 +85,3 @@ forums`[3]` and we'll provide link to such notices.
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 Use the report feature to report anything to the Admins. To use it right click(on user list)->report
-
-Useful Links
-========
-
-1. GitHub organization - https://github.com/HiT-Hi-FiT-Hai
-2. Little information about bots and scripts supported by the hub - http://hit-hi-fit-hai.github.io/ptokax-scripts/
-3. Documentation and help files - https://github.com/HiT-Hi-FiT-Hai/hhfh-docs
-4. Bugs and issues tracker - https://github.com/HiT-Hi-FiT-Hai/hhfh-issues
-5. IRC Channel (server: freenode; channel: #HHFH) - http://webchat.freenode.net?channels=HHFH
-6. Google group - http://groups.google.com/group/hhfh/topics
